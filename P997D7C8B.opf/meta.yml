@@ -59,3 +59,8 @@ source_metadata:
       parent: Volume Fourteen
 created_at: '2022-03-01T03:15:47.012655'
 last_modified_at: '2022-03-01T03:15:47.012657'
+statistics:
+  total_words: 9654
+  total_non_words: 918
+quality:
+  non_words_ratio: 0.1
